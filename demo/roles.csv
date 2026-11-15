@@ -1,0 +1,31 @@
+id,title,company,city,team,why it fits
+r01,Applied ML Engineer,Quillbyte Robotics,Leuven,Perception,Ships vision models to warehouse robots
+r02,Research Engineer (LLM agents),Fernhollow Labs,London,Agents,Tool-using agents with real evaluations
+r03,Machine Learning Engineer,Orbitwell Health,Amsterdam,Imaging,Medical imaging with a small senior team
+r04,Data Scientist,Tidemark Logistics,Antwerp,Forecasting,Demand forecasting at scale
+r05,AI Engineer,Brightloom,Paris,Platform,Builds the internal LLM platform
+r06,Graduate ML Engineer,Cinderpath Energy,Ghent,Grid,Optimisation for energy grids
+r07,NLP Engineer,Wordhaven,Berlin,Search,Multilingual search and retrieval
+r08,Computer Vision Engineer,Pebblecrest,Eindhoven,Inspection,Defect detection on production lines
+r09,ML Research Scientist,Halcyon Vale,Zurich,Foundations,Research-heavy with publication time
+r10,Forward Deployed Engineer,Stonewick AI,London,Customers,Builds agent systems with clients
+r11,ML Ops Engineer,Juniper Shoal,Brussels,Infrastructure,Training and serving pipelines
+r12,Quantitative Researcher,Marrowgate Capital,Amsterdam,Systematic,Statistical modelling of markets
+r13,AI Product Engineer,Lanternfield,Remote,Product,Ships LLM features end to end
+r14,Junior Data Engineer,Copperlark,Mechelen,Data,Batch and streaming pipelines
+r15,Speech Recognition Engineer,Echoridge,Cambridge,Speech,Low-resource speech models
+r16,Robotics Learning Engineer,Gearmoss,Munich,Manipulation,Reinforcement learning on real arms
+r17,Bioinformatics ML Engineer,Helixbloom,Basel,Genomics,Sequence models for biology
+r18,AI Consultant,Northlark Partners,Brussels,Advisory,Strategy plus hands-on prototypes
+r19,Recommender Systems Engineer,Plumvista,Stockholm,Recommendations,Ranking models for a media app
+r20,Evaluation Engineer,Thistlecore,London,Evals,Benchmarks and red-teaming for LLMs
+r21,ML Engineer (Climate),Saltmeadow,Copenhagen,Climate,Satellite data for land use
+r22,Software Engineer (AI tools),Driftwillow,Leuven,Developer tools,Code-assistant tooling
+r23,Applied Scientist,Granitefall,Dublin,Ads,Causal inference for experiments
+r24,Founding ML Engineer,Kestrelmint,Paris,Early stage,First ML hire at a seed startup
+r25,Data Scientist (Sports),Fieldspire,Madrid,Analytics,Tracking data for coaching staff
+r26,Perception Engineer,Ravenholt Mobility,Gothenburg,Autonomy,Sensor fusion for vehicles
+r27,AI Safety Researcher,Clearbrook Institute,Oxford,Alignment,Interpretability research
+r28,Machine Learning Intern,Willowmere,Ghent,Research,Six-month research internship
+r29,Optimisation Engineer,Bramblecourt,Rotterdam,Operations,Routing and scheduling solvers
+r30,Conversational AI Engineer,Mosslight,Lisbon,Assistants,Voice and chat assistants

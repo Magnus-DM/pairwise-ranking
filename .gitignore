@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# Your own data and choices (the demo files are tracked explicitly)
+*.prefs.sqlite
+*.sqlite
+*.db
+!demo/demo.sqlite
+.env
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store

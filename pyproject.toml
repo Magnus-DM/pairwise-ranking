@@ -1,0 +1,25 @@
+[project]
+name = "pairwise-ranking"
+version = "1.0.0"
+description = "Rank anything from head-to-head choices: Bradley-Terry fitted with the MM algorithm, with uncertainty-driven pair selection."
+readme = "README.md"
+license = "MIT"
+authors = [{ name = "Magnus De Maerteleire" }]
+requires-python = ">=3.8"
+dependencies = []  # standard library only
+
+[dependency-groups]
+dev = ["pytest==8.4.2", "ruff==0.14.5"]
+
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP"]
+ignore = ["UP"]  # keep the code runnable on Python 3.8
+
+[tool.ruff.lint.per-file-ignores]
+"ranker.py" = ["E501"]  # the embedded HTML/CSS/JS page is kept compact
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
